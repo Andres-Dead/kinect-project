@@ -1,6 +1,6 @@
 # kinect-project
  
-### This is a school proyect for Biomedical engineering students at UdeG
+### This is a school project for Biomedical engineering students at UdeG
  
 ## Development team
  
