@@ -16,5 +16,8 @@
 
 ## Summary
 
-
+## Technolodies
+ 
+ - OpenCV
+ - Python
 
