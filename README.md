@@ -6,6 +6,7 @@
  
 - Flores Palacion Yaret - 8th semester - Biomedical Engineering 
 - Torres Venegas Ariel Emiliano - 8th semester - Biomedical Engineering
+- Mafer xd
 
 ## Advisors
 
