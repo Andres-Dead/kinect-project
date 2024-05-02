@@ -4,13 +4,14 @@
  
 ## Development team
  
-- <student name> - <semester> - < career >
+- Flores Palacion Yaret - 8th semester - Biomedical Engineering 
+-
 
 ## Advisors
 
- - <sub-fix> <Name> - <occupation> - <role>
+ - PhD. Juan Carlos Gutierrez - Teacher -Advisor
  - Eng. Andres Marquez - Technical lead for Release train engineer team at IBM - co-advisor
-
+ 
 ---
 
 ## Summary
