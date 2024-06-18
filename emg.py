@@ -12,7 +12,7 @@ CH2 = ADC(Pin(25))
 CH2.atten(ADC.ATTN_11DB)
 CH2.width(ADC.WIDTH_12BIT)
 
-muestras = 5000
+muestras = 2000
 
  # Guardar listas en un documento de texto
 with open('REGISTRO 1.txt', 'w+') as reg:
